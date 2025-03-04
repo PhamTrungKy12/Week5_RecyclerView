@@ -10,7 +10,7 @@ import androidx.core.view.WindowInsetsCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.recyclerview.model.SongAdapter;
+import com.example.recyclerview.adapter.SongAdapter;
 import com.example.recyclerview.model.SongModel;
 
 import java.util.ArrayList;

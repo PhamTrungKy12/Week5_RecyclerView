@@ -1,4 +1,4 @@
-package com.example.recyclerview.model;
+package com.example.recyclerview.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,6 +9,7 @@ import android.widget.TextView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.recyclerview.R;
+import com.example.recyclerview.model.SongModel;
 
 import java.util.List;
 
