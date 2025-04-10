@@ -15,7 +15,7 @@ import com.example.recyclerview.model.UserModel;
 
 import java.util.List;
 
-public class CustomAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
+public class CustomAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
     private Context mContext;
     private List<Object> mObjects;
 
